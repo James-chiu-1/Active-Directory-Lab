@@ -1,6 +1,5 @@
-<h1>JWipe - Active Directory Lab</h1>
+Active Directory Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This Project we are going to walk through how to create an Active Directory homelab Environment using Oracle Virtual Box. Configuring and running this lab will help us understand how active directory and windows networking works.
